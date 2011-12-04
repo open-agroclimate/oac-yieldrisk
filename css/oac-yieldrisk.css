@@ -1,0 +1,87 @@
+label {
+  display: block;
+  margin-top: 10px; !important
+}
+
+th {
+  font-weight: bold;
+}
+
+#compare-phases {
+  margin-top: 15px;
+  cursor: pointer;
+  background-color: rgb(0, 140, 0);
+  color: rgb(255, 255, 255);
+  width: 180px;
+  height: 28px;
+}
+
+#crop-container {
+  clear: both;
+}
+
+#chart-container {
+  clear: both;
+}
+
+#graph {
+  float: left;
+  width: 450px;
+  height: 400px;
+}
+
+#planting-dates-container {
+  float: right;
+  width: 180px;
+  padding-left: 10px;
+}
+
+#planting-dates-container label {
+  margin-top: 0px;
+  font-size:14px;
+}
+
+#phenology-container {
+  clear: both;
+}
+
+#phenology-container label {
+  font-size:14px;
+}
+
+#phenology-table {
+  width: 85%;
+}
+
+#phenology-table th, #phenology-table td {
+  font-weight: bold;
+  background-color: #EEE;
+  border: 1px solid #9A9A9A;
+  padding: 5px;
+}
+
+#phenology-table th {
+  text-align: left; !important
+}
+
+#phenology-table td {
+  background-color: #FFF; !important
+}
+
+.small-text {
+  font-size:    .8em;
+  margin-right: 7px;
+  margin-left:  1px;
+}
+
+.div_input { width: 20px; position:relative; top: 18px;font-family:Arial;font-size:10pt; }	
+.div_input_text { height: 12px; width: 120px; position:relative; top: 0px; left: 22px; }
+.label_top { 
+  font-size: 14pt; !important
+  padding: 1px;
+  margin-bottom: 15px;
+}
+
+img#cropImg{ float: none; !important }
+
+
